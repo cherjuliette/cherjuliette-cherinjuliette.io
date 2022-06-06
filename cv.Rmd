@@ -1,0 +1,228 @@
+---
+title: "Cherin-Juliette CV"
+author: Cherin-Juliette
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+![test](./images/meditating.jpg)
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> cherin.mohamed@hu.student.nl
+- <i class="fa fa-github"></i> [github.com/cherjuliette](https://github.com/cherjuliette?tab=repositories).
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- 2 years work experience in the laboratory, doing diagnostic microbiology and immunological testing.
+
+- Entry-level skills in Bash, R, HTML and CSS.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Cherin-Juliette {#title}
+--------------------------------------------------------------------------------
+
+### Currently looking for an internship that combines Data Science with Molecular Biology.
+
+Now that my minor Data Science is nearing the end and I am specialized in Molecular Biology, I am looking for an internship which would allow me to improve my programming skills while also facilitating my laboratory experiences.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Institute for Life Sciences (HU)
+
+B.S. in Molecular Biology
+
+Utrecht, The Netherlands
+
+2023
+
+Specialization courses: Biotechnology, Advanced Labtools, Tumorcell biology
+Minor: Data Science using Bash, R
+
+### Vocational School Beverwijk
+
+Vocational Education diploma (MBO) in Biotechnology
+
+Beverwijk, The Netherlands
+
+2015
+
+During my studies I was taught the preliminary experiments for big researches which has resulted in my experience with laboratory techniques such as bacteria identification and PCR.
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Automating Peak Identification using R
+
+Institute for Life Sciences (HU)
+
+Utrecht, The Netherlands
+
+March 2022 - June 2022
+
+- I was involved in writing a for-loop in R which counted the number of peaks and calculated the beats per minute (BPM).
+- Made a R Shiny app for graph visualization to make the analysis easier for second year students.
+
+### Mutation Analysis of the BTK gene Institute of Life Sciences
+
+Institute for Life Sciences (HU)
+
+Utrecht, The Netherlands
+
+2018
+
+-  The immune deficiency X‑linked agammaglobulinemia (XLA) is caused by mutations in the beta tyrosine kinase (BTK) gene. The weakened
+immune system is directly related to faulty B‑cell formation. 
+- DNA was isolated and amplified using PCR from XLA patients and healthy patients.
+- Custom primers were created to target the BTK gene, which was then sequenced. The location of mutations was discovered using the software
+DNA baser.
+  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Freelance literary critic
+
+Online
+
+2020 - 2022
+
+::: concise
+- Writers contact me and request that I read their novels, following which I provide feedback on the syntax and content. 
+- The review is available
+on Goodreads and Instagram, and it is always accompanied by an attractive photo or video.
+:::
+
+### Employee at the Biobank
+
+BioBank Amsterdam UMC (Previously VuMC) 
+
+June 2016 – September 2016
+
+::: concise
+- My duties included separating Polymorphonuclear leukocytes (PMNs) from whole blood and storing body fluids.
+:::
+
+### Intern at the Biobank
+
+BioBank Amsterdam UMC (Previously VuMC) 
+
+September 2015 - June 2016
+
+::: concise
+- My duties primarily included separating Polymorphonuclear leukocytes (PMNs) from whole blood, storing body fluids and prepare blood sam‑
+ples for tests.
+:::
+
+### Intern at the Waterlaboratory (Het Waterlaboratorium) 
+
+Waterlaboratory Haarlem
+
+::: concise
+- Quality assurance;
+- Legionella detection on BCYE medium;
+- Bacteria identification using MALDI‑TOFF.
+:::
+
+
+Honors Courses {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Postmodernity and American Culture English department at the Institute
+
+University of Applied Sciences
+
+Utrecht, The Netherlands
+
+2021
+
+- Throughout the course, I learned about America’s role in the twenty‑first century, as well as the importance of communication in politics. Fur‑
+thermore, this course has greatly improved my English proficiency.
+
+
+### American Literature
+
+University of Applied Sciences
+
+Utrecht, The Netherlands
+
+2021
+
+- The literary framework of poetry and novels was taught to me. I was also taught about Western American literature written during the Great
+Migration. This course has helped me improve my English skills.
+
+
+### Debating in English
+
+University of Applied Sciences
+
+Utrecht, The Netherlands
+
+2020
+
+- Throughout the course, I was given a variety of topics to debate from various perspectives. Aside from improving my English speaking skills, I
+was also taught how to debate respectfully.
+
+
+Laboratory Skills {data-icon=file}
+--------------------------------------------------------------------------------
+
+PCR
+
+DNA isolation
+
+Bacteria Identification using MALDI-TOFF
+
+
+Programming Skills {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Bash
+Entry-level
+
+### R
+Entry-level
+
+### HTML
+Entry-level
+
+### CSS
+Entry-level
+
+
+
+Spoken Languages {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### English
+C1 CEFR level English.
+
+### Dutch
+C2 CEFR level Dutch.
+
